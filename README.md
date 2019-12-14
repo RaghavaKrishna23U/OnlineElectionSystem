@@ -10,7 +10,7 @@ The software system allows the Candidate to login in to their profiles and uploa
 The admin can check each Candidate details and verify the documents, only after verifying Candidate’s ID and Password will be generated, and can remove faulty accounts. 
 The software system allows Voters to view a list of Candidates in their area. The admin has overall rights over the system and can moderate and delete any details not pertaining to Election Rules. 
 
-###Modules
+### Modules
 
 1. Admin Login
 1. Candidate Document Verification.
