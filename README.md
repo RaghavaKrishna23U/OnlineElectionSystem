@@ -23,3 +23,12 @@ The software system allows Voters to view a list of Candidates in their area. Th
 1. Result Calculation module
 1. Election Creation module
 1. Voting conduction module
+
+### Advantages
+
+* Fast and easy way of conducting Election.
+* Voters can view background of each Candidate.
+* Candidate can present themselves against voters.
+* Admin can verify the documents and details of Candidate.
+* System Generated Unique ID and Password gives more Secure Logins.
+* Result will be out after 2 Hrs of Election.
